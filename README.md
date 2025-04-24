@@ -55,4 +55,4 @@ This project demonstrates the application of machine learning in the healthcare 
 ## 👨‍💻 Author
 
 **Ali Haider**  
-📫 [GitHub](https://github.com/alihaider-ml) • [LinkedIn](www.linkedin.com/in/ali-haider-ml)
+📫 [GitHub](https://github.com/alihaider-ml) • [LinkedIn](https://www.linkedin.com/in/ali-haider-341697268/))
