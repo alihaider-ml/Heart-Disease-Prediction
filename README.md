@@ -31,10 +31,6 @@ The dataset used is the [Heart Disease UCI dataset](https://www.kaggle.com/datas
 - **Logistic Regression**  
 - **Random Forest**  
 
-## 📁 Project Structure
-
-├── data/ # Dataset and CSV files ├── notebooks/ # Jupyter notebooks for exploration and model training ├── heart_disease_prediction.py # Main script ├── requirements.txt # Python dependencies └── README.md # Project overview
-
 
 ## 📈 Results
 
